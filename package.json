@@ -1,0 +1,22 @@
+{
+    "name": "greatest-grey-theme",
+    "displayName": "Greatest Grey Theme",
+    "description": "Best grey theme for VSCode",
+    "version": "0.0.1",
+    "publisher": "EugeneLipsky",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Greatest Grey",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Greatest Grey-color-theme.json"
+            }
+        ]
+    }
+}
