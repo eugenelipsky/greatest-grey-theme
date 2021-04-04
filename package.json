@@ -2,8 +2,13 @@
     "name": "greatest-grey-theme",
     "displayName": "Greatest Grey Theme",
     "description": "Best grey theme for VSCode",
-    "version": "0.0.1",
+    "version": "0.0.6",
     "publisher": "EugeneLipsky",
+    "icon": "images/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eugenelipsky/greatest-grey-theme"
+    },
     "engines": {
         "vscode": "^1.54.0"
     },
